@@ -1,5 +1,3 @@
-#PI-3
-
 Funcionalidades:
 
 Cadastrar um usuario (Cadastrar apenas com email que contenha @senac.)
